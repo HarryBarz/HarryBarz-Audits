@@ -43,6 +43,12 @@ For private audit or consulting requests, please reach out to me via:
 
 
 # Everything Immunefi
+| Protocol Type |  Lang  | Report | Bug Category |
+|-----:|----|-----|-----|
+| DLT | GO | Private | Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network |
+| DLT | GO | Private | RPC API crashes leading to consensus failures or halted block progression |
+| DLT | GO | Private | Shutdown of greater than 10% or equal to but less than 30% of network processing nodes without brute force actions, but does not shut down the network |
+
 
 
 
