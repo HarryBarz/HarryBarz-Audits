@@ -6,7 +6,7 @@
 - [Everything Immunefi](https://github.com/shealtielanz/audits/blob/main/README.md#everything-immunefi)
 
 # About Harry
-Harry is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/). Proficient in Go, Move, Solidity & Rust.
+Harry is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) [Cantina](https://cantina.xyz/). Proficient in Go, Move, Solidity & Rust.
 
 For private audit or consulting requests, please reach out to me via:
 - Twitter `@0xbarz`
