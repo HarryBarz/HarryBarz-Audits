@@ -1,9 +1,8 @@
 # Harry ~ Audit Portfolio 
-- [About Harry](https://github.com/shealtielanz/audits/blob/main/README.md#about-shealtielanz)
-- [Contributions to the Web3 Space](https://github.com/shealtielanz/audits/blob/main/README.md#contributions-to-the-web3-space)
-- [Competitive Audits](https://github.com/shealtielanz/audits/blob/main/README.md#competitive-audits)
-- [Private Audits](https://github.com/shealtielanz/audits/blob/main/README.md#private-audits)
-- [Everything Immunefi](https://github.com/shealtielanz/audits/blob/main/README.md#everything-immunefi)
+- [About Harry](https://github.com/HarryBarz/HarryBarz-Audits/blob/main/README.md#about-harry)
+- [Competitive Audits](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#competitive-audits)
+- [Private Audits](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#private-audits)
+- [Everything Immunefi](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#everything-immunefi)
 
 # About Harry
 Harry is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) [Cantina](https://cantina.xyz/). Proficient in Go, Move, Solidity & Rust.
@@ -12,9 +11,7 @@ For private audit or consulting requests, please reach out to me via:
 - Twitter `@0xbarz`
 - Telegram `@HarryBarz`
 - Discord `@HarryBarz`
-# Contributions to the Web3 Space
-
-- 
+ 
 # Competitive Audits
 | Contest | Description | Link |
 |-----:|-----|-----|
