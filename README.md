@@ -16,7 +16,7 @@ For private audit or consulting requests, please reach out to me via:
 | Contest | Description | Link |
 |-----:|-----|-----|
 | `reserve-index-dtf ~ Cantina` | The Reserve Index Protocol is a protocol for creating and managing portfolios of ERC20-compliant assets entirely onchain.| [Link](https://cantina.xyz/code/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f/overview) |
-| `Seda Protocol (Collaborative Work) ~ Sherlock` | Seda is programmable oracle infrastructure. Allowing developers to access any data from any L1 or L2. This audit is focussed on the chain and the oracle batch proof accessibility and verification across evm chains. | [Link](https://audits.sherlock.xyz/contests/729) |
+| `Seda Protocol ~ Sherlock` | Seda is programmable oracle infrastructure. Allowing developers to access any data from any L1 or L2. This audit is focussed on the chain and the oracle batch proof accessibility and verification across evm chains. | [Link](https://audits.sherlock.xyz/contests/729) |
 | `Crystal Netwrok ~ Sherlock` | Crestal Network is building upgradeable, gasless (ERC-4337) smart contracts for creating and managing AI agents, including on-chain payments and agent updates.| [Link](https://audits.sherlock.xyz/contests/755) |
 | `Velvet-V4 ~ Cantina` | Velvet.Capital is an Intent Operating System for DeFi which aims to streamline onchain portfolio management.| [Link](https://cantina.xyz/code/8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8/overview) |
 | `mystic-monorepo ~ Cantina` | The Mystic Finance making a environment dedicated to RWA-backed lending which takes RWA's different characteristics into account and not only supports them, but leverages them to their full potential.| [Link](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview) |
