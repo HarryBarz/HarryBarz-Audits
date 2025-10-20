@@ -4,8 +4,8 @@
 - [Private Audits](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#private-audits)
 - [Everything Immunefi](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#everything-immunefi)
 
-# About Harry
-Harry is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) [Cantina](https://cantina.xyz/). Proficient in Go, Move, Solidity & Rust.
+# About Me
+I am a well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) [Cantina](https://cantina.xyz/). Proficient in Go, Move, Solidity & Rust.
 
 For private audit or consulting requests, please reach out to me via:
 - Twitter `@0xbarz`
