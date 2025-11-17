@@ -5,7 +5,11 @@
 - [Everything Immunefi](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#everything-immunefi)
 
 # About Me
-I am a well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) [Cantina](https://cantina.xyz/). Proficient in Go, Move, Solidity & Rust.
+I am a well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) [Cantina](https://cantina.xyz/). 
+
+**Pariticipated and found valid Bugs (Crits, Highs, Meds, Lows) across 30+ different protocols in public audit contests**
+
+Proficient in Go, Move, Solidity & Rust.
 
 For private audit or consulting requests, please reach out to me via:
 - Twitter `@0xbarz`
@@ -28,6 +32,8 @@ For private audit or consulting requests, please reach out to me via:
 | `Dodo CrossChain Dex ~ Sherlock` | This contest focuses on the security of DEX built on ZetaChain’s cross-chain infrastructure. | [Link](https://audits.sherlock.xyz/contests/991) |
 | `DeBank ~ Sherlock` | The best portfolio tracker for Ethereum and EVM. | [Link](https://audits.sherlock.xyz/contests/1044) |
 | `ChainLink (Collaborative Work) ~ Code4rena` | A community engagement and rewards program designed to incentivize active participation in the Chainlink Network | [Link](https://code4rena.com/audits/2025-06-chainlink-rewards) |
+| `Chakra (Collaborative Work) ~ Code4rena` | AThe first modular settlement layer designed to unlock Bitcoin's liquidity across diverse blockchain ecosystems. | [Link](https://code4rena.com/audits/2024-08-chakra) |
+| `Gamma Brevis Rewarder (Collaborative Work) ~ Sherlock` | Gamma is a protocol for active liquidity management. This contest focuses on using Brevis' ZK coprocessor to validate and incentivize user liquidity positions. | [Link](https://audits.sherlock.xyz/contests/496) |
 
 
 
