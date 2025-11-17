@@ -34,6 +34,10 @@ For private audit or consulting requests, please reach out to me via:
 | `ChainLink (Collaborative Work) ~ Code4rena` | A community engagement and rewards program designed to incentivize active participation in the Chainlink Network | [Link](https://code4rena.com/audits/2025-06-chainlink-rewards) |
 | `Chakra (Collaborative Work) ~ Code4rena` | AThe first modular settlement layer designed to unlock Bitcoin's liquidity across diverse blockchain ecosystems. | [Link](https://code4rena.com/audits/2024-08-chakra) |
 | `Gamma Brevis Rewarder (Collaborative Work) ~ Sherlock` | Gamma is a protocol for active liquidity management. This contest focuses on using Brevis' ZK coprocessor to validate and incentivize user liquidity positions. | [Link](https://audits.sherlock.xyz/contests/496) |
+| `Telcoin Update #2 (Collaborative Work) ~ Sherlock` | Telcoin uses blockchain to deliver low-cost, high-quality decentralized financial services to mobile users worldwide. This audit reviews an upgrade to its swapping mechanism to better support stablecoins. | [Link](https://audits.sherlock.xyz/contests/643) |
+| `Nouns DAO - Auction Streams (Collaborative Work) ~ Sherlock` | Introduces “Streams Escrow” to stream most auction funds to the DAO instead of sending them upfront. | [Link](https://audits.sherlock.xyz/contests/688) |
+| `Oku's New Order Types Contract Contest (Collaborative Work) ~ Sherlock` | Oku adds CeFi order types (stop loss, stop limit, brackets) to DeFi, giving traders real risk control. | [Link](https://audits.sherlock.xyz/contests/641) |
+
 
 
 
