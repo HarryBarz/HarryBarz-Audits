@@ -35,6 +35,8 @@ For private audit or consulting requests, please reach out to me via:
 | `Gamma Brevis Rewarder (Collaborative Work) ~ Sherlock` | Gamma is a protocol for active liquidity management. This contest focuses on using Brevis' ZK coprocessor to validate and incentivize user liquidity positions. | [Link](https://audits.sherlock.xyz/contests/496) |
 | `Telcoin Update #2 (Collaborative Work) ~ Sherlock` | Telcoin uses blockchain to deliver low-cost, high-quality decentralized financial services to mobile users worldwide. This audit reviews an upgrade to its swapping mechanism to better support stablecoins. | [Link](https://audits.sherlock.xyz/contests/643) |
 | `Nouns DAO - Auction Streams (Collaborative Work) ~ Sherlock` | Introduces “Streams Escrow” to stream most auction funds to the DAO instead of sending them upfront. | [Link](https://audits.sherlock.xyz/contests/688) |
+| `Mitigation Audit  Flare  FAssets ~ Immunefi` | At the core of FAssets v1.1 is a new architecture component called the Core Vault, designed to improve system liquidity, scalability, and capital efficiency. | [Link](https://immunefi.com/audit-competition/flare-fassets--mitigation-audit/leaderboard/#top) |
+
 
 
 
