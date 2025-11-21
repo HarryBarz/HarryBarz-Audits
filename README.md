@@ -52,6 +52,10 @@ For private audit or consulting requests, please reach out to me via:
 
 # Everything Immunefi
 Due to the privacy constraints in Bug Bounty Prorgrams, I can't share publicly the findings, but can share more insight about some of the findings upon request. So for now, I just share the bug categories, 1 for each valid immunefi bugs.
+
+**I'm really good with RPC bugs. :>>>)**
+**Dm on any of my socials for details**
+
 | Protocol Type |  Lang  | Report | Bug Category |
 |-----:|----|-----|-----|
 | DLT | GO | Private | Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network |
