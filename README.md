@@ -5,9 +5,9 @@
 - [Everything Immunefi](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#everything-immunefi)
 
 # About Me
-I am a well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) [Cantina](https://cantina.xyz/). Doing bug bounties currently on L1s.
+I am a well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) Doing bug bounties currently on L1s.
 
-**Pariticipated and found valid Bugs (Crits, Highs, Meds, Lows) across different protocols on different chains in public audit contests**
+**Pariticipated and found valid Bugs across different protocols on different chains in public audit contests**
 
 - Proficient in Go, Move, Solidity & Rust.
 
